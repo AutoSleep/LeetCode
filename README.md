@@ -1,1 +1,1 @@
-Leetcode question that I done
+Write Leetcode for fun （joke😊）
